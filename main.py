@@ -1,0 +1,10 @@
+friends = ["Shubo", "Tuhin", "Tanvir", "Dipu", "Siyam"]
+print (friends[1])
+print (friends)
+print (friends[-2])
+friends.append("Mahir")
+print (friends)
+len(friends)
+print (friends)
+friends.sort()
+print (friends)
